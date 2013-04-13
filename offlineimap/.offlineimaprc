@@ -16,3 +16,11 @@ type = Gmail
 remotehost = imap.gmail.com
 remoteuser = pabloa
 folderfilter = lambda foldername: foldername not in '[Gmail]/All Mail'
+
+[mbnames]
+enabled = yes
+filename = ~/.mutt/mailboxes
+header = "mailboxes "
+peritem = "+%(accountname)s/%(foldername)s"
+sep = " "
+footer = "\n"

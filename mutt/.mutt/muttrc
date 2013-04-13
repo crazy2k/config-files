@@ -2,7 +2,7 @@
 # crazy2k's muttrc
 #
 
-source ./muttrc.PRIVATE
+source ~/.mutt/muttrc.PRIVATE
 
 set from = "pabloa@gmail.com"
 set realname = "Pablo Antonio"

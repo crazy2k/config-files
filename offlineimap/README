@@ -1,0 +1,3 @@
+- .offlineimaprc goes in $HOME
+- start_daemon goes in /usr/local/bin/start_daemon (well, that's where
+  I have it)

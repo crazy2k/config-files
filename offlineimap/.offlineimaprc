@@ -1,0 +1,17 @@
+[general]
+accounts = pabloa-gmail
+
+[Account pabloa-gmail]
+localrepository = pabloa-gmail-local
+remoterepository = pabloa-gmail-remote
+status-backend = sqlite
+
+[Repository pabloa-gmail-local]
+type = Maildir
+localfolders = ~/offlineimap-mail
+
+[Repository pabloa-gmail-remote]
+type = Gmail
+remotehost = imap.gmail.com
+remoteuser = pabloa
+folderfilter = lambda foldername: foldername not in '[Gmail]/All Mail'

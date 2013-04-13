@@ -1,5 +1,6 @@
 [general]
 accounts = pabloa-gmail
+ui = quiet
 
 [Account pabloa-gmail]
 localrepository = pabloa-gmail-local

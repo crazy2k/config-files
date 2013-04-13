@@ -133,5 +133,7 @@ macro pager \Cb "<enter-command>toggle sidebar_visible<enter>"
 
 # END SIDEBAR SETTINGS
 
+source ~/.mutt/mailboxes
+
 set display_filter = "~/.mutt/aliases-extractor.sh"
 source ~/.mutt/aliases

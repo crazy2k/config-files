@@ -1,0 +1,32 @@
+[2013-04-15 14:06:05] weechat 0.3.8 (compiled on Jun  4 2012 17:58:36)
+[2013-04-15 14:06:05] Reading configuration file weechat.conf
+[2013-04-15 14:06:05] Reading configuration file plugins.conf
+[2013-04-15 14:06:05] Reading configuration file relay.conf
+[2013-04-15 14:06:05] Reading configuration file alias.conf
+[2013-04-15 14:06:05] Reading configuration file logger.conf
+[2013-04-15 14:06:05] Reading configuration file aspell.conf
+[2013-04-15 14:06:05] Reading configuration file rmodifier.conf
+[2013-04-15 14:06:05] Reading configuration file iset.conf
+[2013-04-15 14:06:05] Reading configuration file buffers.conf
+[2013-04-15 14:06:05] Reading configuration file charset.conf
+[2013-04-15 14:06:05] Reading configuration file xfer.conf
+[2013-04-15 14:06:06] Reading configuration file jabber.conf
+[2013-04-15 14:06:08] Reading configuration file theme.conf
+[2013-04-15 14:06:08] Reading configuration file irc.conf
+[2013-04-15 14:06:08] irc: connecting to server chat.freenode.net/6667...
+[2013-04-16 01:26:35] irc: connecting to server chat.freenode.net/6667...
+[2013-04-16 03:35:08] Writing configuration file plugins.conf 
+[2013-04-16 03:35:08] Writing configuration file irc.conf 
+[2013-04-16 03:35:08] Writing configuration file jabber.conf 
+[2013-04-16 03:35:08] Writing configuration file jabber.conf 
+[2013-04-16 03:35:08] Writing configuration file theme.conf 
+[2013-04-16 03:35:08] Writing configuration file xfer.conf 
+[2013-04-16 03:35:08] Writing configuration file charset.conf 
+[2013-04-16 03:35:08] Writing configuration file buffers.conf 
+[2013-04-16 03:35:08] Writing configuration file iset.conf 
+[2013-04-16 03:35:08] Writing configuration file rmodifier.conf 
+[2013-04-16 03:35:08] Writing configuration file aspell.conf 
+[2013-04-16 03:35:08] Writing configuration file logger.conf 
+[2013-04-16 03:35:08] Writing configuration file alias.conf 
+[2013-04-16 03:35:08] Writing configuration file relay.conf 
+[2013-04-16 03:35:08] Writing configuration file weechat.conf 

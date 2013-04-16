@@ -1,3 +1,8 @@
 *.PRIVATE
 mutt/.mutt/aliases
 mutt/.mutt/cache
+
+weechat/.weechat/logs/
+# Excluded until WeeChat allows a way to separate sensible data
+weechat/.weechat/jabber.conf
+weechat/.weechat/irc.conf

@@ -1,4 +1,6 @@
 *.PRIVATE
+*.log
+
 mutt/.mutt/aliases
 mutt/.mutt/cache
 
